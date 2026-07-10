@@ -1,4 +1,4 @@
-# News Summarizer Web Application (Group Project)
+# News Summarizer Web Application
 
 This repository is a fork of a group project developed collaboratively.  
 My contributions include:
